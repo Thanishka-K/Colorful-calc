@@ -4,4 +4,4 @@ Though its basic, its functionable aith the few instructions that i gave it.
 
 Hope you like it!
 Check out the index.html file for the html code and 
-style.css code for css code.
+style.css code for css code and js for functionality 
